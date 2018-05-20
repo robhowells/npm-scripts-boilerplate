@@ -12,6 +12,7 @@ files:
   include: 'sass/**/*.s+(a|c)ss'
   ignore:
     - 'node_modules/**/*.*'
+    - 'src/scss/base/icons/**/*.*'
 # Rule Configuration
 rules:
   attribute-quotes: 1
